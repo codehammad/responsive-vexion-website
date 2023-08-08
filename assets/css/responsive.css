@@ -1,0 +1,410 @@
+@media (max-width: 1600px) {
+    .service-wrapper {
+        flex-wrap: wrap;
+    }
+
+    .service-preview {
+        flex-grow: 1;
+    }
+}
+
+@media (max-width: 1199px) {
+    .hero-content h1 {
+        font-size: 58px;
+    }
+
+    .hero-content h1>span {
+        vertical-align: middle;
+    }
+
+    .widget ul {
+        gap: 30px;
+    }
+
+    .service-wrapper .right-side {
+        max-width: 290px;
+        padding-left: 15px;
+    }
+
+    .service-wrapper {
+        align-items: center;
+    }
+}
+
+@media (max-width: 992px) {
+    .post-detail-info>h1 {
+        font-size: 1.875rem !important;
+        letter-spacing: -1px;
+    }
+
+    .comment-reply {
+        padding: 30px;
+    }
+
+    .authorize-wrapper {
+        display: none;
+    }
+
+    .auth-wrap {
+        display: flex !important;
+        align-items: center;
+        gap: 10px;
+        padding: 1rem;
+    }
+
+    .auth-wrap>a {
+        flex-grow: 1;
+    }
+
+    .header .menu .menu-main {
+        height: auto;
+    }
+
+    .hero-content h1 {
+        font-size: 46px;
+    }
+
+    .brand {
+        margin-top: 80px;
+    }
+
+    .mt-150 {
+        margin-top: 100px;
+    }
+
+    .sec-tl h2 {
+        font-size: 48px;
+    }
+
+    .universal-one h4 {
+        font-size: 28px;
+    }
+
+    .manage-box {
+        top: 0;
+        padding-left: 20px;
+    }
+
+    .order-res-2 {
+        order: 2;
+    }
+
+    .manage-box h3 {
+        font-size: 40px;
+        margin-bottom: 15px;
+    }
+
+    .manage-box span {
+        font-size: 20px;
+    }
+
+    .manage-wrapper+.manage-wrapper {
+        margin-top: 80px;
+    }
+
+    .join-box h3 {
+        font-size: 40px;
+    }
+
+    .price-box {
+        margin-bottom: 30px;
+    }
+
+    .price .preview {
+        padding-bottom: 150px;
+    }
+
+    .flex-method {
+        flex-direction: column;
+        gap: 20px;
+    }
+
+    footer .widget.logo-container {
+        margin-bottom: 50px;
+    }
+
+    .service-wrapper {
+        padding-bottom: 60px;
+    }
+
+    .service-tl h3 {
+        font-size: 50px;
+    }
+}
+
+@media (max-width:767px) {
+    .hero-content h1 {
+        font-size: 36px;
+    }
+
+    .hero-content h1>span {
+        font-size: inherit;
+        vertical-align: unset;
+    }
+
+    .hero-content span {
+        font-size: 40px;
+    }
+
+    .hero-content p {
+        font-size: 16px;
+    }
+
+    .brand {
+        margin-top: 60px;
+    }
+
+    .banner-preview {
+        padding-top: 40px;
+    }
+
+    .sec-tl h2 {
+        font-size: 38px;
+        margin-bottom: 10px;
+    }
+
+    .sec-tl span {
+        font-size: 20px;
+    }
+
+    .mt-150 {
+        margin-top: 80px;
+    }
+
+    .mb-70 {
+        margin-bottom: 50px;
+    }
+
+    .universal-one figure {
+        padding: 40px 0;
+    }
+
+    .universal-three figure {
+        margin-bottom: 50px;
+    }
+
+    .universal-one h4 {
+        font-size: 24px;
+    }
+
+    .manage-box {
+        margin-top: 30px;
+        padding-left: 0;
+    }
+
+    .manage-box h3 {
+        font-size: 34px;
+    }
+
+    .join-box h3 {
+        font-size: 32px;
+    }
+
+    .price-head h3 {
+        font-size: 40px;
+    }
+
+    .service-tl h3 {
+        font-size: 40px;
+    }
+
+    .service-preview {
+        width: 100%;
+        margin: 30px 0;
+    }
+
+    .service-tl span {
+        font-size: 20px;
+    }
+
+    .service-wrapper .right-side {
+        max-width: none;
+    }
+
+    .service-btn {
+        margin-top: 20px;
+    }
+
+    .service-wrapper .right-side {
+        padding-left: 0;
+    }
+
+    .container-fluid {
+        padding: 0 15px;
+    }
+}
+
+@media (max-width:575px) {
+    .hero-content h1 {
+        font-size: 24px;
+    }
+
+    .hero-content span {
+        font-size: 30px;
+    }
+
+    .brand-wrapper>div.row>div {
+        flex: 0 0 50%;
+        max-width: 50%;
+    }
+
+    .brand-wrapper>div.row {
+        justify-content: center;
+    }
+
+    .brand-box {
+        margin-bottom: 20px;
+    }
+
+    .sec-tl h2 {
+        font-size: 30px;
+    }
+
+    .mt-150 {
+        margin-top: 60px;
+    }
+
+    .manage-box {
+        text-align: center;
+    }
+
+    .manage-box h3 {
+        font-size: 28px;
+    }
+
+    .join-box {
+        flex-direction: column;
+    }
+
+    .price .preview {
+        padding-bottom: 80px;
+    }
+
+    .widget ul a {
+        font-size: 14px;
+    }
+
+    .widget ul {
+        gap: 15px;
+    }
+
+    footer .ft-logo span {
+        padding: 0 20px;
+    }
+
+    footer {
+        padding: 60px 0 40px;
+    }
+
+    .widget .ft-btn a {
+        font-size: 16px;
+    }
+
+    .service-tl h3 {
+        font-size: 30px;
+    }
+
+    .service-tl span {
+        font-size: 18px;
+    }
+
+    .service-tl {
+        text-align: center;
+    }
+
+    .service-wrapper {
+        padding-bottom: 40px;
+    }
+
+    .blog-content {
+        text-align: center;
+    }
+
+    blockquote>p {
+        font-size: 16px;
+    }
+
+    #authorize-popup .modal-body {
+        padding: 40px 25px 50px;
+    }
+
+    .post-detail-info>h1 {
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+    }
+
+    .post-detail-min-author-info>h5 {
+        font-size: 16px;
+    }
+
+    .post-detail-min-author-info>h5+span {
+        font-size: 12px;
+    }
+
+    .post-detail-content {
+        text-align: center;
+    }
+
+    .grid-2 {
+        grid-template-columns: auto;
+        gap: 0;
+    }
+
+    .post-detail-content+.post-detail-share {
+        justify-content: center;
+        gap: 10px;
+    }
+
+    .post-detail-share>h5+.share-links {
+        justify-content: center;
+        margin-left: 0;
+        gap: 10px;
+    }
+
+    .post-detail-author-info {
+        text-align: center;
+        padding: 1.25rem;
+        justify-content: center;
+    }
+
+    .post-detail-author-info>img+.post-detail-info-inner {
+        flex: 0 0 100%;
+        max-width: 100%;
+        padding: 1.25rem 0 0;
+    }
+
+    .post-detail-info-inner>p+.share-links {
+        justify-content: center;
+    }
+
+    .comments-thread>h3,
+    .comment-reply>h3 {
+        font-size: 24px;
+    }
+
+    .comment {
+        margin-top: 3.875rem;
+        justify-content: center;
+        text-align: center;
+        gap: 6px;
+    }
+
+    .comment>img+.comment-detail {
+        flex: 0 0 100%;
+        max-width: 100%;
+        padding: 26px 0 0;
+    }
+
+    .comment-list .reply {
+        text-align: center;
+    }
+
+    .comment-reply {
+        padding: 0px;margin-bottom: 40px;
+    }
+
+    .comment-reply .field-btn {
+        text-align: center;
+    }
+}
