@@ -4,7 +4,7 @@ Welcome to the Vexion Website Universal App repository! This project showcases a
 
 ## Live Demo
 
-Check out the live demo of the Vexion Website Universal App at [www.vexion-website-demo.com](https://www.vexion-website-demo.com).
+Check out the live demo of the Vexion Website Universal App at [Demo](https://wpessential.org/hammad/vexion).
 
 ## Features
 
