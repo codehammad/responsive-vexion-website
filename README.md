@@ -1,5 +1,7 @@
 # Vexion Website Universal App
 
+![Vexion Website](https://ibb.co/D4C2m8Z)
+
 Welcome to the Vexion Website Universal App repository! This project showcases a responsive website built using the Vexion framework, allowing for seamless user experiences across various devices and screen sizes.
 
 ## Live Demo
